@@ -53,3 +53,6 @@ epoch = 500
 model = train(model,x,y_t, optimizer, loss, epoch)
 ```
 
+```python
+visualize(loss_output)
+```
